@@ -37,6 +37,9 @@
 * [ -f ]:
 <p>Select Format (.txt is default Format - Available: .txt .pdf .docx)</p>
 
+<h2>Result</h2>
+<img alt="Result!" src="./Images/resault.png">
+
 <h2>Tesseract-OCR Settings</h2>
 
 ```
