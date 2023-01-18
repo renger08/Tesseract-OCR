@@ -11,15 +11,15 @@
 
 <p>First Download Tesseract-OCR Engine From <a href="https://github.com/UB-Mannheim/tesseract/wiki">Here.</a></p>
 <p>Then Install it. After Tesseract installation, Install the Python Packages:</p>
-```
-pip install pytesseract
 
-pip install Pillow
+* pip install pytesseract
 
-pip install docx
+* pip install Pillow
 
-pip install fpdf
-```
+* pip install docx
+
+* pip install fpdf
+
 <p>There you go, now you can run the python script.</p>
 
 * Arguments:
