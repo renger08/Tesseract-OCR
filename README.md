@@ -1,4 +1,4 @@
-<h1 align="center">Hy There 👋, I'm Ali</h1>
+<h1 align="center">Hey There 👋, I'm Ali</h1>
 <h3 align="center">A Simple OCR Made With Python3.10.7 using pytesseract, Pillow, docx, fpdf, os and argparse Libraries</h3>
 
 <h2>Demo</h2>
@@ -67,11 +67,9 @@ OCR Engine Mode
 
 ```
 
-<h2>Support</h2>
 
+<h2>Support</h2>
 <p>Give a Star (⭐) if you like my project</p>
-
-<h2>Support</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renger08&label=Profile%20views&color=0e75b6&style=flat" alt="renger08" /> </p>
 
