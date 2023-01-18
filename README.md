@@ -12,29 +12,29 @@
 <p>First Download Tesseract-OCR Engine From <a href="https://github.com/UB-Mannheim/tesseract/wiki">Here.</a></p>
 <p>Then Install it. After Tesseract installation, Install the Python Packages:</p>
 
-* pip install pytesseract
+* pytesseract
 
-* pip install Pillow
+* Pillow
 
-* pip install docx
+* docx
 
-* pip install fpdf
+* fpdf
 
-<p>There you go, now you can run the python script.</p>
+<p>You'r Done! now you can use the python script.</p>
 
 * Arguments:
-> [-i], [-o], [-l], [-f] 
+> [ -i ], [ -o ], [ -l ], [ -f ] 
 
-* [-i]:
+* [ -i ]:
 <p>Select An Input File (jpg, png,...)</p>
 
-* [-o]:
+* [ -o ]:
 <p>Enter Output File's Name (.txt is default format)</p>
 
-* [-l]:
+* [ -l ]:
 <p>Select Your Language</p>
 
-* [-f]:
+* [ -f ]:
 <p>Select Format (.txt is default Format - Available: .txt .pdf .docx)</p>
 
 <h2>Tesseract-OCR Settings</h2>
@@ -66,6 +66,8 @@ OCR Engine Mode
 3    Default, based on what is available.
 
 ```
+
+<h2>Support</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renger08&label=Profile%20views&color=0e75b6&style=flat" alt="renger08" /> </p>
 
