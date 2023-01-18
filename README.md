@@ -1,4 +1,4 @@
-<h1 align="center">Hy There 👋, I'm Ali</h1>
+<h1 align="center">Hey There 👋, I'm Ali</h1>
 <h3 align="center">A Simple OCR Made With Python3.10.7 using pytesseract, Pillow, docx, fpdf, os and argparse Libraries</h3>
 
 <h2>Demo</h2>
